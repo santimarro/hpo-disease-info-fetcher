@@ -11,7 +11,7 @@ Disease Information Fetcher is a Python program that searches for diseases and r
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/disease-info-fetcher.git
+git clone https://github.com/santimarro/disease-info-fetcher.git
 ```
 
 2. Change into the `disease-info-fetcher` directory:
